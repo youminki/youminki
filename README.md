@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbalsrl7648)](https://solved.ac/dbalsrl7648)
  ![mazandi profile](http://mazandi.herokuapp.com/api?handle={dbalsrl7648}&theme=warm)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbalsrl7648)](https://github.com/dbalsrl7648/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbalsrl7648@naver.com)](https://github.com/anuraghazra/github-readme-stats)
 
