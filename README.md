@@ -28,7 +28,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbalsrl7648)](https://solved.ac/dbalsrl7648)
 ![Youminki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youminki&show_icons=true&theme=radical)
 </div> 
-<a href="https://github.com/youminki"><img align="center" style="height:168px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seolahchloe&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
+<a href="https://github.com/youminki"><img align="center" style="height:168px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youminki&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&animation&height=150)
