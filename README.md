@@ -18,9 +18,9 @@
 
 <br/>
 
-![HongEunho's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongEunho&show_icons=true&theme=radical)
+![Youminki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youminki&show_icons=true&theme=radical)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdwns315)](https://solved.ac/ghdwns315)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbalsrl7648)](https://solved.ac/ghdwns315)
 </div> 
 
 ### Algorithm Blog
