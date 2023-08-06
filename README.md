@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbalsrl7648)](https://solved.ac/dbalsrl7648)
- ![mazandi profile](http://mazandi.herokuapp.com/api?handle={dbalsrl7648}&theme=warm)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youminki&hide=contribs,prs&show_icons=true&theme=테마)
-
 <div align = "center">
 <a href="https://hongcoding.tistory.com/"><img src="https://img.shields.io/badge/DevBlog-6799FF?style=flat-square&logo=Micro.blog&logoColor=white"/> <a href="https://www.notion.so/Hong-Eunho-d4340f6dfdce4c30a41750d82281cebd"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <a href="mailto:dbalsrl7648@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=Gmail&logoColor=white"/>
 
