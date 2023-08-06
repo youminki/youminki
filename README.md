@@ -2,7 +2,7 @@
 
 
 ### 🖐 Hi there! 🖐
-#### I'm Junior Android Developer
+#### I'm Junior Developer
 
 <br/>
 
