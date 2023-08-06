@@ -24,8 +24,7 @@
 </div> 
 
 ### Algorithm Blog
-- [[DP & BitMask] 외판원순회](https://hongcoding.tistory.com/83)
-- [[Greedy] 단어수학](https://hongcoding.tistory.com/76?category=939702)
-- [[Stack] 오큰수](https://www.acmicpc.net/problem/17298)
-- [[BFS] 이분그래프](https://www.acmicpc.net/problem/1707)
+- [[해킹보안전문가 자격증] 배움IT자격증센터][(https://hongcoding.tistory.com/76?category=939702)](https://pass.baeoom.com/class/myClassLectureList.asp?classId=0000023082)
+- [[알고리즘 기초] CodePlus][(https://www.acmicpc.net/problem/17298)](https://code.plus/course/41)
+- [[Coding] 코딩도장]([https://www.acmicpc.net/problem/1707](https://dojang.io/)https://dojang.io/)
 
