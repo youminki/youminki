@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&animation=twinkling&height=350&section=header&text=SEOLAH%20CHLOE&fontSize=90)
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20youminki%20%20&height=200&fontSize=90&fontColor=ffffff)
-<h3 align="center"> 🔮🌷💎✨🎪🎠 
+<h3 align="center"> 
   <br>
 
 
