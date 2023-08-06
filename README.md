@@ -1,21 +1,4 @@
-### Hi there 👋
 
-<!--
-**youminki/youminki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align = "center">
-<a href="https://hongcoding.tistory.com/"><img src="https://img.shields.io/badge/DevBlog-6799FF?style=flat-square&logo=Micro.blog&logoColor=white"/> <a href="https://www.notion.so/Hong-Eunho-d4340f6dfdce4c30a41750d82281cebd"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <a href="mailto:dbalsrl7648@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D44638?style=flat-square&logo=Gmail&logoColor=white"/>
 
 
 ### 🖐 Hi there! 🖐
@@ -28,7 +11,7 @@ Here are some ideas to get you started:
 
 
 ### 📖 Languages 📖
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C&logoColor=white"/>
 
 ### 🤔 Also Interested in.. 🤔
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Backend-6DB33F?style=flat-square&logoColor=white"/>
