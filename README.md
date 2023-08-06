@@ -18,7 +18,7 @@
 
 <br/>
 ![youminki's GitHub stats](https://github-readme-stats.vercel.app/api?username=youminki&show_icons=true&theme=radical)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbalsrl7648)](https://solved.ac/dbalsrl7648)
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbalsrl7648)](https://solved.ac/dbalsrl7648)
 </div> 
 
 ### Algorithm Blog
