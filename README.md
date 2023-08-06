@@ -12,7 +12,9 @@
 <br/>
 
 ### 🛠 Skills 🛠
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/MVP-31A8FF?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/MVVM-FF9E0F?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Clean Architecture-C70D2C?style=flat-square&logo=Google&logoColor=white"/> </br> <img src="https://img.shields.io/badge/AAC-9999FF?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/LifeCycles-9999FF?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/LiveData-9999FF?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/ViewModel-9999FF?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Room-9999FF?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Paging-9999FF?style=flat-square&logoColor=white"/> </br> <img src="https://img.shields.io/badge/DataBinding-9536FF?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Coroutines-FF36B5?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Dagger-FF5E00?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Unit/Ui Test-CEA73D?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> </br>
+<img src="https://img.shields.io/badge/SwiftUI-F05138?style=plastic-square&logo=Swift&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=plastic-square&logo=Uikit&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/iOS-000000?style=plastic-square&logo=Apple&logoColor=white"/></a>&nbsp 
 
 
 ### 📖 Languages 📖
