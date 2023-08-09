@@ -24,8 +24,6 @@
 </div> 
 <a href="https://github.com/youminki"><img align="center" style="height:168px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youminki&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
 
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&animation&height=150)
 ### Algorithm Blog
 - [[해킹보안전문가 자격증] 배움IT자격증센터][(https://hongcoding.tistory.com/76?category=939702)](https://pass.baeoom.com/class/myClassLectureList.asp?classId=0000023082)
 - [[알고리즘 기초] CodePlus][(https://www.acmicpc.net/problem/17298)](https://code.plus/course/41)
