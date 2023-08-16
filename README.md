@@ -1,7 +1,7 @@
   <br>
   
 ### 🖐 Hi there! 🖐
-#### I'm Junior Developer
+#### 안녕하세요, 명지대학교 19학번 유민기입니다.
 
 <br/>
 
