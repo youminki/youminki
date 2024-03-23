@@ -7,7 +7,7 @@
 
 ### 🛠 Skills 🛠
 <img src="https://img.shields.io/badge/SwiftUI-F05138?style=plastic-square&logo=Swift&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/UIKit-2396F3?style=plastic-square&logo=Uikit&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/React-2396F3?style=plastic-square&logo=Uikit&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/iOS-000000?style=plastic-square&logo=Apple&logoColor=white"/></a>
 
 
