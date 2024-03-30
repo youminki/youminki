@@ -26,11 +26,3 @@
 
 ### 개인블로그
 - [[알고리즘 백준 문제풀이] Tistory][[(https://dbalsrl7648.tistory.com/))]
-
-### 참고하고 있는 사이트
-- [[해킹보안전문가 자격증] 배움IT자격증센터][(https://hongcoding.tistory.com/76?category=939702)](https://pass.baeoom.com/class/myClassLectureList.asp?classId=0000023082)
-- [[알고리즘 기초] CodePlus][(https://www.acmicpc.net/problem/17298)](https://code.plus/course/41)
-- [[Coding] 코딩도장] [(https://dojang.io/)]
-- [[자격증 기출문제] CBT] [(https://www.comcbt.com/)]
-- [[Baekjoon] 백준] [(https://www.acmicpc.net/)]
-
