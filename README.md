@@ -55,19 +55,36 @@ Here are some ideas to get you started:
   
   <h2>🚀 Projects 🚀</h2>
   <p>
-    [MelPik](https://github.com/imaseller/FrontEnd): 인플루언서와 명품브랜드들과 협업하여 마케팅 및 서비스를 하는 웹사이트 입니다.(진행중)</p>
+    [MelPik](https://github.com/imaseller/FrontEnd): 인플루언서와 명품브랜드들과 협업하여 마케팅 및 서비스를 하는 웹사이트 입니다.(ing)</p>
     [MjuLikeLion](https://github.com/mju-likelion/12th-hackathon-team2-web): ADHD를 치료하고 감정을 기록하기 위한 웹사이트입니다.</p>
-    [MixGolem](https://github.com/Mix-Golem/Client): 인공지능 AI를 활용하여 나만의 Mix Music을 만들 수 있는 웹사이트입니다.(진행중)</p>
+    [MixGolem](https://github.com/Mix-Golem/Client): 인공지능 AI를 활용하여 나만의 Mix Music을 만들 수 있는 웹사이트입니다.</p>
     [Clover](https://github.com/2024Clover-website/Clover-Client): 연합 동아리 클로버의 전시회를 위한 초대장, 전시회 웹사이트를 제작했습니다.</p>
   </p>
   
   <br>
-  
-  <h2📫  Data 📫 </h2>
+    
+  <h2>🏆 Contest 🏆</h2>
+  <p>
+   Hackathon(LikeLion) (24.07.05 ~ 24.08.05)
+  </p>
+      
+  <h2>🎓  Education & Experience 🎓</h2>
+  <p>
+   명지대학교 컴퓨터공학과 (2019.03 - 2025.07) </p>
+   Collaborate with the Union Club Clover (2023.06 - 2023.08) </p>
+   Likelion at Myongji Univ Frontend 12th (2024.03 - 2024.12) </p>
+   Make a MixGolem with friends (2024.07 - 2024.08) </p>
+   Joined LiftComma company (2024.07.05 - ing) </p>
+  </p>
+  <br>
+
+  <h2>📫 Data 📫</h2>
   <p>​​
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youminki&layout=compact&title_color=ff69b4" alt="인기 언어" />
     <img src="https://github-readme-stats.vercel.app/api?username=Youminki&show_icons=true&theme=radical" alt="GitHub 통계" />
   </p>
+
+  <br>
   
 </div>
 
