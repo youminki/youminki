@@ -44,7 +44,20 @@ Here are some ideas to get you started:
   
   <br>
   
-  <h2>🔭 Activity 🔭</h2>
+  <h2>🔭 Intro 🔭</h2>
+  <p>
+    프론트엔드 개발자 유민기입니다.
+    새로운 개념을 학습할 때 빠른 학습을 위해 공식 문서와 기술 채널의 유튜브를 참고하여 학습합니다.
+    [블로그 작성](https://dbalsrl7648.tistory.com)으로 다른 사람들이 같은 문제를 겪지 않도록 일조하며 학습하기 위해 블로그를 작성하고 있습니다.
+  </p>
+  
+  <br>
+  
+  <h2>🚀 Projects 🚀</h2>
+  <p>
+    [MixGolem](https://github.com/Mix-Golem/Client): 인공지능 AI를 활용하여 나만의 Mix Music을 만들 수 있는 Mix Golem 웹사이트입니다.
+  </p>
+  
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youminki&layout=compact&title_color=ff69b4" alt="Top Langs" />
     <img src="https://github-readme-stats.vercel.app/api?username=Youminki&show_icons=true&theme=radical" alt="GitHub Stats" />
