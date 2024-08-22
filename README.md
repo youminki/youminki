@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahyexng&layout=compact&title_color=ff69b4)](https://github.com/youminki/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youminki&layout=compact&title_color=ff69b4)](https://github.com/youminki/github-readme-stats)
 
 </div>
 
