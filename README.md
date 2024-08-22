@@ -46,6 +46,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/iOS-000000?style=plastic-square&logo=Apple&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>  
     <img src="https://img.shields.io/badge/Frontend-6DB33F?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kotlin-6DB33F?style=flat-square&logoColor=white"/>
   </p> 
   
 <br>
