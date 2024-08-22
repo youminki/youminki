@@ -47,7 +47,6 @@ Here are some ideas to get you started:
   <h2>🔭 Activity 🔭</h2>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youminki&layout=compact&title_color=ff69b4" alt="Top Langs" />
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbalsrl7648" alt="Solved.ac 프로필" />
     <img src="https://github-readme-stats.vercel.app/api?username=Youminki&show_icons=true&theme=radical" alt="GitHub Stats" />
   </p>
   
