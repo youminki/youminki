@@ -45,12 +45,12 @@ Here are some ideas to get you started:
   <br>
   
   <h2>🔭 Activity 🔭</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youminki&layout=compact&title_color=ff69b4)](https://github.com/youminki/github-readme-stats)
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbalsrl7648)](https://solved.ac/dbalsrl7648)
-
-![Youminki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youminki&show_icons=true&theme=radical)
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youminki&layout=compact&title_color=ff69b4" alt="Top Langs" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbalsrl7648" alt="Solved.ac 프로필" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Youminki&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </p>
+  
 </div>
 
 
