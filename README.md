@@ -37,8 +37,11 @@ Here are some ideas to get you started:
 </p> 
 
 <br>
-### 🤔 Also Interested in.. 🤔
-  <img src="https://img.shields.io/badge/iOS-000000?style=plastic-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>  <img src="https://img.shields.io/badge/Frontend-6DB33F?style=flat-square&logoColor=white"/>
+<h2>🤔 Also Interested in.. 🤔</h2>
+  <img src="https://img.shields.io/badge/iOS-000000?style=plastic-square&logo=Apple&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Frontend-6DB33F?style=flat-square&logoColor=white"/>
+<br>
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youminki&layout=compact&title_color=ff69b4)](https://github.com/youminki/github-readme-stats)
