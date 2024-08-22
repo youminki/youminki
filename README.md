@@ -48,17 +48,11 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youminki&layout=compact&title_color=ff69b4)](https://github.com/youminki/github-readme-stats)
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbalsrl7648)](https://solved.ac/dbalsrl7648)
+
+![Youminki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youminki&show_icons=true&theme=radical)
 </div>
 
-### 🛠 Skills 🛠
-<img src="https://img.shields.io/badge/SwiftUI-F05138?style=plastic-square&logo=Swift&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/React-2396F3?style=plastic-square&logo=Uikit&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/iOS-000000?style=plastic-square&logo=Apple&logoColor=white"/></a>
-
-
-### 🔭 Activity 🔭
-  <img src="https://img.shields.io/badge/iOS-000000?style=plastic-square&logo=Apple&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>  <img src="https://img.shields.io/badge/Frontend-6DB33F?style=flat-square&logoColor=white"/>
 
 <br/>
 
