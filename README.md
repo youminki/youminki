@@ -18,22 +18,28 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+  <h2>🔭 Intro 🔭</h2>
+    <p>
+      프론트엔드 개발자 유민기입니다.</p>
+      새로운 개념을 학습할 때 빠른 학습을 위해 공식 문서와 기술 채널의 유튜브를 참고하여 학습합니다.</p>
+      [블로그 작성](https://dbalsrl7648.tistory.com): 다른 사람들이 같은 문제를 겪지 않도록 일조하며 학습하기 위해 블로그를 작성하고 있습니다.</p>
+    </p>
+    
+<br>
 
-
-
-<h2>📖 Tech Stack 📖</h2>
-  <p>
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp 
-    <img src="https://img.shields.io/badge/CSS3-ffa500?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp 
-    <img src="https://img.shields.io/badge/Javascript-efd81a?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp 
-    <img src="https://img.shields.io/badge/React-2396F3?style=plastic-square&logo=Uikit&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
-  </p> 
+  <h2>📖 Tech Stack 📖</h2>
+    <p>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp 
+      <img src="https://img.shields.io/badge/CSS3-ffa500?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp 
+      <img src="https://img.shields.io/badge/Javascript-efd81a?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp 
+      <img src="https://img.shields.io/badge/React-2396F3?style=plastic-square&logo=Uikit&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
+    </p> 
   
-  <br>
+<br>
   
   <h2>🌱 Also Interested in.. 🌱</h2>
   <p>
@@ -42,16 +48,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Frontend-6DB33F?style=flat-square&logoColor=white"/>
   </p> 
   
-  <br>
-  
-  <h2>🔭 Intro 🔭</h2>
-  <p>
-    프론트엔드 개발자 유민기입니다.</p>
-    새로운 개념을 학습할 때 빠른 학습을 위해 공식 문서와 기술 채널의 유튜브를 참고하여 학습합니다.</p>
-    [블로그 작성](https://dbalsrl7648.tistory.com): 다른 사람들이 같은 문제를 겪지 않도록 일조하며 학습하기 위해 블로그를 작성하고 있습니다.</p>
-  </p>
-  
-  <br>
+<br>
   
   <h2>🚀 Projects 🚀</h2>
   <p>
@@ -61,33 +58,33 @@ Here are some ideas to get you started:
     [Clover](https://github.com/2024Clover-website/Clover-Client): 연합 동아리 클로버의 전시회를 위한 초대장, 전시회 웹사이트를 제작했습니다.</p>
   </p>
   
-  <br>
+<br>
     
   <h2>🏆 Contest 🏆</h2>
   <p>
    Hackathon(LikeLion) (24.07.05 ~ 24.08.05)
   </p>
-      
+
+<br>
+     
   <h2>🎓  Education & Experience 🎓</h2>
-  <p>
-   명지대학교 컴퓨터공학과 (2019.03 - 2025.07) </p>
-   Collaborate with the Union Club Clover (2023.06 - 2023.08) </p>
-   Likelion at Myongji Univ Frontend 12th (2024.03 - 2024.12) </p>
-   Make a MixGolem with friends (2024.07 - 2024.08) </p>
-   Joined LiftComma company (2024.07.05 - ing) </p>
-  </p>
-  <br>
+    <p>
+     명지대학교 컴퓨터공학과 (2019.03 - 2025.07) </p>
+     Collaborate with the Union Club Clover (2023.06 - 2023.08) </p>
+     Likelion at Myongji Univ Frontend 12th (2024.03 - 2024.12) </p>
+     Make a MixGolem with friends (2024.07 - 2024.08) </p>
+     Joined LiftComma company (2024.07.05 - ing) </p>
+    </p>
+  
+<br>
 
   <h2>📫 Data 📫</h2>
-  <p>​​
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youminki&layout=compact&title_color=ff69b4" alt="인기 언어" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Youminki&show_icons=true&theme=radical" alt="GitHub 통계" />
-  </p>
+    <p>​​
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youminki&layout=compact&title_color=ff69b4" alt="인기 언어" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Youminki&show_icons=true&theme=radical" alt="GitHub 통계" />
+    </p>
 
-  <br>
+<br>
   
 </div>
-
-
-<br/>
 
