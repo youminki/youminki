@@ -48,24 +48,29 @@ Here are some ideas to get you started:
   <p>
     프론트엔드 개발자 유민기입니다.</p>
     새로운 개념을 학습할 때 빠른 학습을 위해 공식 문서와 기술 채널의 유튜브를 참고하여 학습합니다.</p>
-    [블로그 작성](https://dbalsrl7648.tistory.com)으로 다른 사람들이 같은 문제를 겪지 않도록 일조하며 학습하기 위해 블로그를 작성하고 있습니다.</p>
+    [블로그 작성](https://dbalsrl7648.tistory.com): 다른 사람들이 같은 문제를 겪지 않도록 일조하며 학습하기 위해 블로그를 작성하고 있습니다.</p>
   </p>
   
   <br>
   
   <h2>🚀 Projects 🚀</h2>
   <p>
-    [MelPik](https://github.com/imaseller/FrontEnd): 인플루언서와 명품브랜드들과 협업하여 수익창출을 위한 마케팅 및 서비스를 하는 웹사이트 입니다.(진행중)</p>
-    [MjuLikeLion](https://github.com/mju-likelion/12th-hackathon-team2-web): ADHD를 치료하기 위해 감정을 기록하고, 집중 세션을 통해 목표를 달성하는데 도움을 주기 위한 웹사이트입니다.</p>
-    [MixGolem](https://github.com/Mix-Golem/Client): 인공지능 AI를 활용하여 나만의 Mix Music을 만들 수 있는 Mix Golem 웹사이트입니다.(진행중)</p>
-    [Clover](https://github.com/2024Clover-website/Clover-Client): 연합 동아리 클로버의 전시회를 위한 초대장, 전시회 웹사이트와 모바일 웹사이트를 제작했습니다.</p>
+    [MelPik](https://github.com/imaseller/FrontEnd): 인플루언서와 명품브랜드들과 협업하여 마케팅 및 서비스를 하는 웹사이트 입니다.(진행중)</p>
+    [MjuLikeLion](https://github.com/mju-likelion/12th-hackathon-team2-web): ADHD를 치료하고 감정을 기록하기 위한 웹사이트입니다.</p>
+    [MixGolem](https://github.com/Mix-Golem/Client): 인공지능 AI를 활용하여 나만의 Mix Music을 만들 수 있는 웹사이트입니다.(진행중)</p>
+    [Clover](https://github.com/2024Clover-website/Clover-Client): 연합 동아리 클로버의 전시회를 위한 초대장, 전시회 웹사이트를 제작했습니다.</p>
   </p>
-
+  
+  <br>
+  
+  <h2📫  Data 📫 </h2>
+  <p>​​
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youminki&layout=compact&title_color=ff69b4" alt="인기 언어" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Youminki&show_icons=true&theme=radical" alt="GitHub 통계" />
+  </p>
   
 </div>
 
 
 <br/>
 
-### 개인블로그
-- [[알고리즘 백준 문제풀이] Tistory][[(https://dbalsrl7648.tistory.com/))]
