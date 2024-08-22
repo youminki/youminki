@@ -22,9 +22,6 @@ Here are some ideas to get you started:
 
 
 <h2>📖 Tech Stack 📖</h2>
-
-  <p>Teach that I've used at least once</p>
-  
   <p>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/CSS3-ffa500?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp 
@@ -37,6 +34,7 @@ Here are some ideas to get you started:
   </p> 
   
   <br>
+  
   <h2>🌱 Also Interested in.. 🌱</h2>
   <p>
     <img src="https://img.shields.io/badge/iOS-000000?style=plastic-square&logo=Apple&logoColor=white"/> 
@@ -47,7 +45,9 @@ Here are some ideas to get you started:
   <br>
   
   <h2>🔭 Activity 🔭</h2>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youminki&layout=compact&title_color=ff69b4)](https://github.com/youminki/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youminki&layout=compact&title_color=ff69b4)](https://github.com/youminki/github-readme-stats)
+
 </div>
 
 ### 🛠 Skills 🛠
