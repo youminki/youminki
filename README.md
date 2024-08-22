@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   <h2>🚀 Projects 🚀</h2>
   <p>
     [MelPik](https://github.com/imaseller/FrontEnd): 인플루언서와 명품브랜드들과 협업하여 마케팅 및 서비스를 하는 웹사이트 입니다.(ing)</p>
-    [MjuLikeLion](https://github.com/mju-likelion/12th-hackathon-team2-web): ADHD를 치료하고 감정을 기록하기 위한 웹사이트입니다.</p>
+    [MutsideOut](https://github.com/mju-likelion/12th-hackathon-team2-web): ADHD를 치료하고 감정을 기록하기 위한 웹사이트입니다.</p>
     [MixGolem](https://github.com/Mix-Golem/Client): 인공지능 AI를 활용하여 나만의 Mix Music을 만들 수 있는 웹사이트입니다.</p>
     [Clover](https://github.com/2024Clover-website/Clover-Client): 연합 동아리 클로버의 전시회를 위한 초대장, 전시회 웹사이트를 제작했습니다.</p>
   </p>
