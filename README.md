@@ -55,13 +55,12 @@ Here are some ideas to get you started:
   
   <h2>🚀 Projects 🚀</h2>
   <p>
-    [MixGolem](https://github.com/Mix-Golem/Client): 인공지능 AI를 활용하여 나만의 Mix Music을 만들 수 있는 Mix Golem 웹사이트입니다.
+    [MelPik](https://github.com/imaseller/FrontEnd): 인플루언서와 명품브랜드들과 협업하여 수익창출을 위한 마케팅 및 서비스를 하는 웹사이트 입니다.(진행중)</p>
+    [MjuLikeLion](https://github.com/mju-likelion/12th-hackathon-team2-web): ADHD를 치료하기 위해 감정을 기록하고, 집중 세션을 통해 목표를 달성하는데 도움을 주기 위한 웹사이트입니다.</p>
+    [MixGolem](https://github.com/Mix-Golem/Client): 인공지능 AI를 활용하여 나만의 Mix Music을 만들 수 있는 Mix Golem 웹사이트입니다.(진행중)</p>
+    [Clover](https://github.com/2024Clover-website/Clover-Client): 연합 동아리 클로버의 전시회를 위한 초대장, 전시회 웹사이트와 모바일 웹사이트를 제작했습니다.</p>
   </p>
-  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youminki&layout=compact&title_color=ff69b4" alt="Top Langs" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Youminki&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </p>
+
   
 </div>
 
