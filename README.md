@@ -82,10 +82,10 @@ Here are some ideas to get you started:
   <h2>📫 Data 📫</h2>
     <p>​​
     <a href="https://github.com/youminki/github-readme-stats">
-      <img width=57% height=100% src="https://github-readme-stats.vercel.app/api?username=ImGdevel&show_icons=true&theme=dark&count_private=true&hide=issues"  />
+      <img width=57% height=100% src="https://github-readme-stats.vercel.app/api?username=youminki&show_icons=true&theme=dark&count_private=true&hide=issues"  />
     </a>    
     <a href="https://github.com/youminki/github-readme-stats">
-      <img width=38% height=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImGdevel&layout=compact&theme=dark&langs_count=6&hide=Jupyter%20Notebook,ShaderLab,HLSL&exclude_repo=T-T-TCRPG)](https://github.com/youminki/github-readme-stats"/>
+      <img width=38% height=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=youminki&layout=compact&theme=dark&langs_count=6&hide=Jupyter%20Notebook,ShaderLab,HLSL&exclude_repo=T-T-TCRPG)](https://github.com/youminki/github-readme-stats"/>
     </a>
     </p>
 
