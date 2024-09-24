@@ -63,7 +63,8 @@ Here are some ideas to get you started:
     
   <h2>🏆 Contest 🏆</h2>
   <p>
-   Hackathon(LikeLion) (24.07.05 ~ 24.08.05)
+   Hackathon(LikeLion) (24.07.05 ~ 24.08.05)</p>
+   2024 강원도 대학생 코딩경진대회
   </p>
 
 <br>
