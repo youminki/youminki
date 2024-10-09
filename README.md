@@ -57,6 +57,7 @@ Here are some ideas to get you started:
     [MutsideOut](https://github.com/mju-likelion/12th-hackathon-team2-web): ADHD를 치료하고 감정을 기록하기 위한 웹사이트입니다.</p>
     [MixGolem](https://github.com/Mix-Golem/Client): 인공지능 AI를 활용하여 나만의 Mix Music을 만들 수 있는 웹사이트입니다.</p>
     [Clover](https://github.com/2024Clover-website/Clover-Client): 연합 동아리 클로버의 전시회를 위한 초대장, 전시회 웹사이트를 제작했습니다.</p>
+    [아웅다웅](https://github.com/orgs/MyongjiCollaboration/repositories): '만남'을 주제로 만든 가족 교환일기 웹 서비스입니다.</p>
   </p>
   
 <br>
@@ -65,6 +66,7 @@ Here are some ideas to get you started:
   <p>
    Hackathon(LikeLion) (24.07.05 ~ 24.08.05)</p>
    2024 강원도 대학생 코딩경진대회
+   명지톤
   </p>
 
 <br>
