@@ -93,6 +93,13 @@ Here are some ideas to get you started:
     </p>
 
 <br>
-  
+
+<h2>✨ &nbsp;Recent activity</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/youminki/youminki/snake/github-contribution-grid-snake.svg#gh-light-mode-only" style="max-width:100%;">
+  <img src="https://raw.githubusercontent.com/youminki/youminki/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" style="max-width:100%;">
+</p>
+
 </div>
 
