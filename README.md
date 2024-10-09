@@ -97,10 +97,7 @@ Here are some ideas to get you started:
 <h2>✨ &nbsp;Recent activity</h2>
 
 <p align="center">
-  <!-- Light mode snake -->
-  <img src="https://github.com/youminki/snk/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation light mode" style="max-width:100%;">
-  <!-- Dark mode snake -->
-  <img src="https://github.com/youminki/snk/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark mode" style="max-width:100%;">
+<img src="https://github.com/youminki/youminki/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 <p align="right">
