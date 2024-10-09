@@ -14,19 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<div align="center">
-
-  <h2>🔭 Intro 🔭</h2>
-    <p>
-      프론트엔드 개발자 유민기입니다.</p>
-      새로운 개념을 학습할 때 빠른 학습을 위해 공식 문서와 기술 채널의 유튜브를 참고하여 학습합니다.</p>
-      [블로그 작성](https://dbalsrl7648.tistory.com): 다른 사람들이 같은 문제를 겪지 않도록 일조하며 학습하기 위해 블로그를 작성하고 있습니다.</p>
-    </p>
-    
-<br>
-
 <h2>✨ &nbsp;Recent activity</h2>
 
 <p align="center">
@@ -39,6 +26,17 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=youminki&&style=flat-square" alt="Profile views">
 </p>
 
+
+<div align="center">
+
+  <h2>🔭 Intro 🔭</h2>
+    <p>
+      프론트엔드 개발자 유민기입니다.</p>
+      새로운 개념을 학습할 때 빠른 학습을 위해 공식 문서와 기술 채널의 유튜브를 참고하여 학습합니다.</p>
+      [블로그 작성](https://dbalsrl7648.tistory.com): 다른 사람들이 같은 문제를 겪지 않도록 일조하며 학습하기 위해 블로그를 작성하고 있습니다.</p>
+    </p>
+    
+<br>
 
   <h2>📖 Tech Stack 📖</h2>
     <p>
