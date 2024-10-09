@@ -97,13 +97,13 @@ Here are some ideas to get you started:
 <h2>✨ &nbsp;Recent activity</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/youminki/wanlufun/snake/github-contribution-grid-snake.svg#gh-light-mode-only" style="max-width:100%;">
-  <img src="https://raw.githubusercontent.com/youminki/wanlufun/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" style="max-width:100%;">
+  <img src="https://raw.githubusercontent.com/youminki/youminki/snake/github-contribution-grid-snake.svg#gh-light-mode-only" style="max-width:100%;">
+  <img src="https://raw.githubusercontent.com/youminki/youminki/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" style="max-width:100%;">
 </p>
 
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=wanlufun&&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=youminki&&style=flat-square">
 </p>
 
 
