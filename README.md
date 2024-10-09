@@ -97,7 +97,9 @@ Here are some ideas to get you started:
 <h2>✨ &nbsp;Recent activity</h2>
 
 <p align="center">
-<img src="https://github.com/youminki/youminki/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/youminki/youminki/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark mode" style="max-width:100%;">
+</p>
+
 </p>
 
 <p align="right">
