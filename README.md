@@ -14,20 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>✨ &nbsp;Recent activity</h2>
-
-<p align="center">
-  <img src="https://github.com/youminki/youminki/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark mode" style="max-width:100%;">
-</p>
-
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=youminki&&style=flat-square" alt="Profile views">
-</p>
-
 
 <div align="center">
+  
+  <h2>✨ &nbsp;Recent activity</h2>
+  
+  <p align="center">
+    <img src="https://github.com/youminki/youminki/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark mode" style="max-width:100%;">
+  </p>
+  
+  </p>
+  
+  <p align="right">
+    <img src="https://komarev.com/ghpvc/?username=youminki&&style=flat-square" alt="Profile views">
+  </p>
+  
 
   <h2>🔭 Intro 🔭</h2>
     <p>
