@@ -27,6 +27,19 @@ Here are some ideas to get you started:
     
 <br>
 
+<h2>✨ &nbsp;Recent activity</h2>
+
+<p align="center">
+  <img src="https://github.com/youminki/youminki/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark mode" style="max-width:100%;">
+</p>
+
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=youminki&&style=flat-square" alt="Profile views">
+</p>
+
+
   <h2>📖 Tech Stack 📖</h2>
     <p>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp 
@@ -93,18 +106,5 @@ Here are some ideas to get you started:
     </p>
 
 <br>
-
-<h2>✨ &nbsp;Recent activity</h2>
-
-<p align="center">
-  <img src="https://github.com/youminki/youminki/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark mode" style="max-width:100%;">
-</p>
-
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=youminki&&style=flat-square" alt="Profile views">
-</p>
-
 
 
