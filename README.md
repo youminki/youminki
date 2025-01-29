@@ -43,8 +43,8 @@ Here are some ideas to get you started:
     <p>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp 
       <img src="https://img.shields.io/badge/CSS3-ffa500?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp 
-      <img src="https://img.shields.io/badge/Javascript-3766AB?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp 
-<img src="https://img.shields.io/badge/Typescript-efd81a?style=flat-square&logo=Typescript&logoColor=white"/>&nbsp 
+      <img src="https://img.shields.io/badge/Javascript-efd81a?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp 
+<img src="https://img.shields.io/badge/Typescript-3766AB?style=flat-square&logo=Typescript&logoColor=white"/>&nbsp 
       <img src="https://img.shields.io/badge/React-2396F3?style=plastic-square&logo=Uikit&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
