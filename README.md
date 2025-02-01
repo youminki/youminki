@@ -44,7 +44,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp 
       <img src="https://img.shields.io/badge/CSS3-ffa500?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp 
       <img src="https://img.shields.io/badge/Javascript-efd81a?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp 
-<img src="https://img.shields.io/badge/Typescript-3766AB?style=flat-square&logo=Typescript&logoColor=white"/>&nbsp 
+      <img src="https://img.shields.io/badge/Typescript-3766AB?style=flat-square&logo=Typescript&logoColor=white"/>&nbsp 
       <img src="https://img.shields.io/badge/React-2396F3?style=plastic-square&logo=Uikit&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
     [MelPik](https://github.com/me1pik/Main_Front): 인플루언서와 명품브랜드들과 협업하여 마케팅 및 서비스를 하는 웹사이트 입니다.(ing)</p>
     [MutsideOut](https://github.com/mju-likelion/12th-hackathon-team2-web): ADHD를 치료하고 감정을 기록하기 위한 웹사이트입니다.</p>
     [Clover](https://github.com/2024Clover-website/Clover-Client): 연합 동아리 클로버의 전시회를 위한 초대장, 전시회 웹사이트를 제작했습니다.</p>
-    [MixGolem](https://github.com/Mix-Golem/Client): 인공지능 AI를 활용하여 나만의 Mix Music을 만들 수 있는 웹사이트입니다.</p>
+    [MJUSEC](https://github.com/MJSEC-MJU/MSG_CTF_WEB):CTF 문제풀이 및 관리자를 위한 웹사이트입니다.</p>
     [아웅다웅](https://github.com/orgs/MyongjiCollaboration/repositories): '만남'을 주제로 만든 가족 교환일기 웹 서비스입니다.</p>
   </p>
   
