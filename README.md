@@ -69,7 +69,7 @@ Here are some ideas to get you started:
     [MelPik](https://github.com/me1pik/Main_Front): 인플루언서와 명품브랜드들과 협업하여 마케팅 및 서비스를 하는 웹사이트 입니다.(ing)</p>
     [MutsideOut](https://github.com/mju-likelion/12th-hackathon-team2-web): ADHD를 치료하고 감정을 기록하기 위한 웹사이트입니다.</p>
     [Clover](https://github.com/2024Clover-website/Clover-Client): 연합 동아리 클로버의 전시회를 위한 초대장, 전시회 웹사이트를 제작했습니다.</p>
-    [Mjusec](https://github.com/MJSEC-MJU/MSG_CTF_WEB):CTF 문제풀이 및 관리자를 위한 웹사이트입니다.</p>
+    [Mjusec](https://github.com/MJSEC-MJU/MSG_CTF_WEB):CTF 문제풀이 및 관리자를 위한 웹사이트입니다.</p>
     [아웅다웅](https://github.com/orgs/MyongjiCollaboration/repositories): '만남'을 주제로 만든 가족 교환일기 웹 서비스입니다.</p>
   </p>
   
@@ -81,8 +81,8 @@ Here are some ideas to get you started:
      명지대학교 컴퓨터공학과 (2019.03 - 2025.07) </p>
      Collaborate with the Union Club Clover (2023.06 - 2023.08) </p>
      Likelion at Myongji Univ Frontend 12th (2024.03 - 2024.12) </p>
-     Make a MixGolem with friends (2024.07 - 2024.08) </p>
      Joined LiftComma company (2024.07.05 - ing) </p>
+     Joined MJSEC FrontEnd, WebHacking (2025.01.05 - ing) </p>
     </p>
   
 <br>
