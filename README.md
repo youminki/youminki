@@ -1,21 +1,15 @@
-# 👋 안녕하세요! 프론트엔드 개발자 유민기입니다
+# 개발을 할 때가 가장 행복한 개발자 유민기입니다.
 
 <div align="center">
   
   # 🚀 **포트폴리오 사이트** 🚀
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.youminki.blog/)
-  
-  # **[✨ https://www.youminki.blog/ ✨](https://www.youminki.blog/)**
-  
-  ### *프로젝트와 기술 스택을 한눈에 확인하세요!*
-  
-  ### ✨ **UI/UX와 프론트엔드 기술력을 확인해보세요!** ✨
-  
-  ---
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=youminki&theme=dark&hide_border=true)
-  
+
+# **[✨ https://www.youminki.blog/ ✨](https://www.youminki.blog/)**
+
+---
+
+![GitHub Streak](https://streak-stats.demolab.com?user=youminki&theme=dark&hide_border=true)
+
   <img src="https://github.com/youminki/youminki/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark mode" style="max-width:100%;">
   
   <p align="right">
@@ -25,16 +19,42 @@
 
 ## 🚀 About Me
 
-> 새로운 기술을 빠르게 학습하고 적용하는 것을 좋아하는 **프론트엔드 개발자**입니다.  
-> **React**, **TypeScript**, **Vite**를 활용한 현대적인 웹 개발에 열정을 가지고 있으며,  
+> **개발을 할 때가 가장 행복한 개발자** 유민기입니다.  
+> **React + TypeScript + Vite** 기술 스택을 기반으로 한 풀스택 웹 개발 경험을 가지고 있으며,  
 > 사용자 경험을 중시하는 직관적이고 아름다운 인터페이스 구현에 집중하고 있습니다.
 
 ### ✨ **핵심 역량**
 
-- **Frontend Development**: React, TypeScript, Vite 기반 모던 웹 개발
-- **UI/UX Design**: Figma를 활용한 사용자 중심 인터페이스 설계
-- **Responsive Web**: 모든 디바이스에서 완벽한 사용자 경험 제공
-- **Team Collaboration**: Git 기반 협업 및 코드 리뷰 문화
+#### 🚀 **Full-stack Web Development Experience**
+
+- **React + TypeScript + Vite** 기술 스택을 기반으로 한 풀스택 웹 개발 경험
+- **Melpik 의류 대여 서비스**의 전체 생태계 구현 경험 (프론트엔드 아키텍처 설계부터 배포까지)
+
+#### 🔧 **Code Quality and Development Efficiency**
+
+- **코드 품질 및 개발 효율성** 중점
+- **TypeScript strict 모드**, **ESLint + Prettier + Husky**를 통한 자동화된 코드 품질 관리
+- **Jest + React Testing Library**를 통한 테스트 커버리지 확보
+- **Storybook**을 활용한 컴포넌트 문서화
+
+#### 🎨 **User Experience Optimization**
+
+- **사용자 경험 최적화**에 대한 깊은 이해
+- **반응형 디자인**, **모바일 최적화**, **접근성(a11y)**, **성능 모니터링** 포함 UX/UI 설계 및 구현 담당
+- **Styled Components** 기반 디자인 시스템 구축
+
+#### 💼 **Complex Business Logic Implementation**
+
+- **복잡한 비즈니스 로직 구현** 전문성
+- **사용자 인증**, **상품 관리**, **렌탈 서비스**, **결제**, **스케줄링 시스템** 등 핵심 기능 구현
+- **관리자 대시보드** 데이터 관리 및 모니터링 시스템 구축
+
+#### 📚 **Continuous Learning and Technology Adoption**
+
+- **지속적인 학습 및 기술 적용** 중요
+- **React 18/19** 최신 기능, **Vite** 빌드 도구, **모던 TypeScript** 패턴 적극 도입
+- **React Query**, **React Hook Form** 등 최신 라이브러리 활용
+- **Git 기반 버전 관리** 및 **CI/CD 파이프라인**을 통한 안정적인 배포 프로세스 구축
 
 ### 📚 **지속적 성장**
 
@@ -96,9 +116,16 @@
   
   ## **[✨ https://www.youminki.blog/ ✨](https://www.youminki.blog/)**
   
-  ### 📱 **반응형 웹 디자인** | 🎨 **모던 UI/UX** | ⚡ **최적화된 성능**
+  ### 🎯 **주요 특징**
   
-  ### 실제 프로젝트와 코드를 확인하고 라이브 데모를 체험해보세요!
+  | Feature | Description |
+  |---------|-------------|
+  | **📱 반응형 웹 디자인** | 모든 디바이스에서 완벽한 사용자 경험 |
+  | **🎨 모던 UI/UX** | Figma 기반 사용자 중심 인터페이스 |
+  | **⚡ 최적화된 성능** | Vite와 Next.js를 활용한 빠른 로딩 |
+  | **🔧 최신 기술 스택** | React, TypeScript, Tailwind CSS |
+  
+  ### 💻 **실제 프로젝트와 코드를 확인하고 라이브 데모를 체험해보세요!**
   
   [![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwww.youminki.blog)](https://www.youminki.blog/)
   
