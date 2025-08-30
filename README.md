@@ -92,10 +92,10 @@
 ## 🎓 Education & Experience
 
 - **명지대학교 컴퓨터공학과** (2019.03 - 2025.07)
-- **LiftComma** - 프론트엔드 개발자 (2024.07.05 - 현재)
-- **MJSEC** - Frontend, WebHacking 팀원 (2025.01.05 - 현재)
-- **Likelion at Myongji Univ** - Frontend 12기 (2024.03 - 2024.12)
 - **Union Club Clover** - 협업 프로젝트 (2023.06 - 2023.08)
+- **Likelion at Myongji Univ** - Frontend 12기 (2024.03 - 2024.12)
+- **MJSEC** - Frontend, WebHacking 팀원 (2025.01.05 - 2025.02.28)
+- **LiftComma** - 프론트엔드 개발자 (2024.07.05 - 현재)
 
 ## 📊 GitHub Stats
 
