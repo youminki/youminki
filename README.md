@@ -86,9 +86,7 @@
 
 ## 🏆 Achievements & Certifications
 
-- 🥇 **명지대학교 해커톤 2위** - MutsideOut 프로젝트 (ADHD 치료 웹앱)
 - 🎯 **Likelion Frontend 12기 수료** - React 기반 프론트엔드 개발 교육 완료
-- 🚀 **MJSEC WebHacking 팀 활동** - 웹 보안 및 해킹 방어 연구
 - 💼 **LiftComma 프론트엔드 개발자** - 실무 경험 및 상용 서비스 개발
 
 ## 🎓 Education & Experience
