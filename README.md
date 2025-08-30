@@ -2,13 +2,15 @@
 
 <div align="center">
   
-  ## 🚀 **포트폴리오 사이트** 🚀
+  # 🚀 **포트폴리오 사이트** 🚀
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.youminki.blog/)
   
-  **[🎯 포트폴리오 바로가기 🎯](https://www.youminki.blog/)**
+  # **[🎯 https://www.youminki.blog/ 🎯](https://www.youminki.blog/)**
   
-  *프로젝트와 기술 스택을 한눈에 확인하세요!*
+  ### *프로젝트와 기술 스택을 한눈에 확인하세요!*
+  
+  ### 🌟 **UI/UX와 프론트엔드 기술력을 확인해보세요!** 🌟
   
   ---
   
@@ -23,8 +25,18 @@
 
 ## 🚀 About Me
 
-새로운 기술을 빠르게 학습하고 적용하는 것을 좋아하는 **프론트엔드 개발자**입니다.  
-공식 문서와 기술 채널을 통해 지속적으로 학습하며, 배운 내용을 블로그에 정리하여 다른 개발자들과 지식을 공유하고 있습니다.
+> 새로운 기술을 빠르게 학습하고 적용하는 것을 좋아하는 **프론트엔드 개발자**입니다.  
+> **React**, **TypeScript**, **Next.js**를 활용한 현대적인 웹 개발에 열정을 가지고 있으며,  
+> 사용자 경험을 중시하는 직관적이고 아름다운 인터페이스 구현에 집중하고 있습니다.
+
+### 🌟 **핵심 역량**
+
+- **Frontend Development**: React, TypeScript, Vite 기반 모던 웹 개발
+- **UI/UX Design**: Figma를 활용한 사용자 중심 인터페이스 설계
+- **Responsive Web**: 모든 디바이스에서 완벽한 사용자 경험 제공
+- **Team Collaboration**: Git 기반 협업 및 코드 리뷰 문화
+
+### 📚 **지속적 성장**
 
 - 📝 [기술 블로그](https://dbalsrl7648.tistory.com/) - 개발 경험과 학습 내용을 정리
 - 🌐 **[포트폴리오 사이트](https://www.youminki.blog/)** - 프로젝트와 기술 스택을 한눈에
@@ -41,12 +53,34 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=ant-design&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-### 📱 Mobile & Backend
+### 🔧 Frontend Libraries & Tools
 
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=tanstack-query&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### 📱 Mobile & Cross-platform
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### 🖥️ Backend & Database
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -54,9 +88,6 @@
 
 ### 🔮 Learning & Interest
 
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -79,8 +110,8 @@
 
 ## 🏆 Achievements & Certifications
 
-- 🎯 **Likelion Frontend 12기 수료**
-- 💼 **LiftComma 프론트엔드 개발**
+- 🎯 **Likelion Frontend 12기 수료** - React 기반 프론트엔드 개발 교육 완료
+- 💼 **LiftComma 프론트엔드 개발자** - 실무 경험 및 상용 서비스 개발
 
 ## 🎓 Education & Experience
 
@@ -105,9 +136,13 @@
 
 <div align="center">
   
-  **[🎯 포트폴리오 사이트 바로가기 🎯](https://www.youminki.blog/)**
+  ## **[🎯 https://www.youminki.blog/ 🎯](https://www.youminki.blog/)**
   
-  프로젝트와 기술 스택을 자세히 확인해보세요!
+  ### 📱 **반응형 웹 디자인** | 🎨 **모던 UI/UX** | ⚡ **최적화된 성능**
+  
+  ### 실제 프로젝트와 코드를 확인하고 라이브 데모를 체험해보세요!
+  
+  [![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwww.youminki.blog)](https://www.youminki.blog/)
   
 </div>
 
