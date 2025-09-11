@@ -56,13 +56,6 @@
 - **React Query**, **React Hook Form** 등 최신 라이브러리 활용
 - **Git 기반 버전 관리** 및 **CI/CD 파이프라인**을 통한 안정적인 배포 프로세스 구축
 
-### 📚 **지속적 성장**
-
-- 📝 [기술 블로그](https://dbalsrl7648.tistory.com/) - 개발 경험과 학습 내용을 정리
-- 🌐 **[포트폴리오 사이트](https://www.youminki.blog/)** - 프로젝트와 기술 스택을 한눈에
-- 💼 [LiftComma](https://liftcomma.com/) - 프론트엔드 개발자로 재직 중
-- 🎯 [GitHub](https://github.com/youminki) - 오픈소스 프로젝트 및 협업
-
 ## 🛠️ Tech Stack
 
 | Category                       | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
