@@ -1,10 +1,7 @@
 # 새로운 기술 습득을 즐기고 클론 코딩이 취미인 개발자 유민기입니다.
 
 <div align="center">
-  
-  # **포트폴리오 사이트** 
 
-# **[✨ https://www.youminki.blog/ ✨](https://www.youminki.blog/)**
 
 ---
 
