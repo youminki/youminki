@@ -3,17 +3,6 @@
 <div align="center">
 
 
----
-
-![GitHub Streak](https://streak-stats.demolab.com?user=youminki&theme=dark&hide_border=true)
-
-  <img src="https://github.com/youminki/youminki/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark mode" style="max-width:100%;">
-  
-  <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=youminki&&style=flat-square" alt="Profile views">
-  </p>
-</div>
-
 ## 🚀 About Me
 
 > **개발을 할 때가 가장 행복한 개발자** 유민기입니다.  
@@ -62,30 +51,7 @@
 | **🔧 State Management**        | ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=tanstack-query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=react-hook-form&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=flat&logo=redux&logoColor=white) ![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)                                                         |
 | **📱 Mobile & Cross-platform** | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=flat&logo=swift&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)                                                                                                    |
 | **🖥️ Backend & Database**      | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)                                                                                                                                                                                                                                                                                                              |
-| **🔮 DevOps & Tools**          | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)                                                                                                  |
-
-## 🎯 Projects
-
-| Project                                                                    | Description                                | Tech Stack        | Status         | Demo |
-| -------------------------------------------------------------------------- | ------------------------------------------ | ----------------- | -------------- | ---- |
-| **[MelPik](https://github.com/me1pik/Main_Front)**                         | 인플루언서와 명품브랜드 협업 마케팅 플랫폼 | React, TypeScript | 🚧 In Progress | 🔗   |
-| **[MutsideOut](https://github.com/mju-likelion/12th-hackathon-team2-web)** | ADHD 치료 및 감정 기록 웹사이트            | React, JavaScript | ✅ Completed   | 🔗   |
-| **[Clover](https://github.com/2024Clover-website/Clover-Client)**          | 연합 동아리 전시회 초대장 및 웹사이트      | React, TypeScript | ✅ Completed   | 🔗   |
-| **[Mjusec](https://github.com/MJSEC-MJU/MSG_CTF_WEB)**                     | CTF 문제풀이 및 관리자 웹사이트            | React, JavaScript | ✅ Completed   | 🔗   |
-| **[아웅다웅](https://github.com/orgs/MyongjiCollaboration/repositories)**  | 가족 교환일기 웹 서비스                    | React, TypeScript | ✅ Completed   | 🔗   |
-
-## 🏆 Achievements & Certifications
-
-- 🎯 **Likelion Frontend 12기 수료** - React 기반 프론트엔드 개발 교육 완료
-- 💼 **LiftComma 프론트엔드 개발자** - 실무 경험 및 상용 서비스 개발
-
-## 🎓 Education & Experience
-
-- **명지대학교 컴퓨터공학과** (2019.03 - 2025.07)
-- **Union Club Clover** - 협업 프로젝트 (2023.06 - 2023.08)
-- **Likelion at Myongji Univ** - Frontend 12기 (2024.03 - 2024.12)
-- **MJSEC** - Frontend, WebHacking 팀원 (2025.01.05 - 2025.02.28)
-- **LiftComma** - 프론트엔드 개발자 (2024.07 - 2025.07)
+| **🔮 DevOps & Tools**          | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)                                                                                                  
 
 ## 📊 GitHub Stats
 
